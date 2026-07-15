@@ -1,36 +1,25 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6B6B&height=120&section=header&text=👋%20Rajdeep&fontSize=40&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-</div>
+𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙍𝙤𝙗𝙚𝙧𝙩 𝙎𝙝𝙖𝙬
+    
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Vision-Language+Model+Expert;Full+Stack+Developer;Building+AI+for+Cultural+Heritage" alt="Typing Animation" />
-</h1>
+𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-<!-- ============ STATS BADGES ============ -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajdeep547&label=Profile%20Views&color=6C63FF&style=flat-square&labelColor=0d1117" />
-  <a href="https://github.com/rajdeep547?tab=followers">
-    <img src="https://img.shields.io/github/followers/rajdeep547?label=Followers&style=flat-square&color=6C63FF&labelColor=0d1117" />
-  </a>
-  <a href="https://github.com/rajdeep547">
-    <img src="https://img.shields.io/github/stars/rajdeep547?label=Stars&style=flat-square&color=FFD700&labelColor=0d1117" />
-  </a>
-</div>
+💻 𝑨 𝒘𝒆𝒃 𝒅𝒆𝒗 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒘𝒊𝒕𝒉 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒇𝒐𝒓 𝑽𝒖𝒆.𝒋𝒔.
 
----
+🖖 𝙑𝙪𝙚.𝙟𝙨 𝙛𝙖𝙣𝙖𝙩𝙞𝙘𝙨 | 🍎 𝙎𝙬𝙞𝙛𝙩 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 | 🌵 𝘼𝙜𝙖𝙫𝙚 𝙣𝙖𝙣𝙣𝙮
 
-<!-- ============ ANIMATED GREETING ============ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Rajdeep;An+AI%2FML+Engineer;Building+intelligent+systems;Making+AI+accessible+to+all" alt="Greeting Animation" />
-</div>
+💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
 
-<!-- ============ ABOUT ME ============ -->
-## 👨‍💻 About Me
+𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+Vue Frimousse vue-command-palette vue-sonner vue-color-wheel
 
-```ascii
-   ██████  █████  ██      ██████  ███████ ███████ ██████  
-  ██       ██   ██ ██      ██   ██ ██      ██      ██   ██ 
-  ██   ███ ███████ ██      ██████  █████   █████   ██████  
-  ██    ██ ██   ██ ██      ██   ██ ██      ██      ██   ██ 
-   ██████  ██   ██ ███████ ██   ██ ███████ ███████ ██   ██ 
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Passionate+about+AI+%26+ML;Building+for+Cultural+Heritage;Open+Source+Contributor" alt="About Me Animation" /> </div>
+𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+HTML5 CSS3 JavaScript TypeScript Vue.js Nuxt React.js Next.js
+
+Less Sass Stylus TailwindCSS UnoCSS WindiCSS
+
+Webpack Rollup Vite ESlint Prettier Git GitLab VS Code
+
+Netlify Vercel Railway Render
+
+𝗦𝘁𝗮𝘁𝘀
+xiaoluoboding's github stats
