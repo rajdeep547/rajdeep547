@@ -1,11 +1,11 @@
 <!-- ============ ANIMATED HEADER ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6B6B&height=150&section=header&text=👋%20Rajdeep&fontSize=50&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6B6B&height=120&section=header&text=👋%20Rajdeep&fontSize=35&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- ============ ANIMATED TYPING ============ -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Vision-Language+Model+Expert;Full+Stack+Developer;Building+AI+for+Cultural+Heritage" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Vision-Language+Model+Expert;Full+Stack+Developer;Building+AI+for+Cultural+Heritage" alt="Typing Animation" />
 </h1>
 
 <!-- ============ PROFILE VIEWS ============ -->
