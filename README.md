@@ -4,9 +4,9 @@
 </div>
 
 <!-- ============ ANIMATED TYPING ============ -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Vision-Language+Model+Expert;Full+Stack+Developer;Building+AI+for+Cultural+Heritage" alt="Typing Animation" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Vision-Language+Model+Expert;Full+Stack+Developer;Building+AI+for+Cultural+Heritage" alt="Typing Animation" />
+</div>
 
 <!-- ============ PROFILE VIEWS ============ -->
 <div align="center">
@@ -22,7 +22,38 @@
 ---
 
 # 💫 About Me:
-## 🔭 I'm currently working on<br>**Cultural Heritage Vision-Language Model** — Fine-tuning Qwen2-VL with LoRA for museum-grade artifact descriptions. Building a multilingual AI system that generates structured, professional descriptions of cultural heritage artifacts.<br><br>## 🤝 I'm looking to collaborate on<br>- Vision-Language Models (CLIP, Qwen-VL)<br>- Cultural Heritage AI projects<br>- Open Source AI/ML projects<br>- Multilingual AI Systems<br><br>## 🆘 I'm looking for help with<br>- Model Scaling for production deployment<br>- Dataset preparation for cultural heritage<br>- Cloud Deployment (AWS/GCP)<br>- Performance Optimization<br><br>## 🌱 I'm currently learning<br>- Advanced PyTorch & Model Optimization<br>- Multimodal AI Architectures<br>- LoRA/QLoRA Fine-tuning<br>- Full Stack Development (FastAPI, React, Docker)<br>- Cloud Computing (AWS, GCP)<br><br>## 💬 Ask me about<br>- PyTorch & Transformers<br>- LoRA & QLoRA<br>- Vision-Language Models<br>- Cultural Heritage AI<br>- Fine-tuning models<br>- Open Source contributions<br><br>## ⚡ Fun fact<br>💡 "I believe AI can preserve cultural heritage for future generations! 🏛️✨"
+## 🔭 I'm currently working on
+**Cultural Heritage Vision-Language Model** — Fine-tuning Qwen2-VL with LoRA for museum-grade artifact descriptions. Building a multilingual AI system that generates structured, professional descriptions of cultural heritage artifacts.
+
+## 🤝 I'm looking to collaborate on
+- Vision-Language Models (CLIP, Qwen-VL)
+- Cultural Heritage AI projects
+- Open Source AI/ML projects
+- Multilingual AI Systems
+
+## 🆘 I'm looking for help with
+- Model Scaling for production deployment
+- Dataset preparation for cultural heritage
+- Cloud Deployment (AWS/GCP)
+- Performance Optimization
+
+## 🌱 I'm currently learning
+- Advanced PyTorch & Model Optimization
+- Multimodal AI Architectures
+- LoRA/QLoRA Fine-tuning
+- Full Stack Development (FastAPI, React, Docker)
+- Cloud Computing (AWS, GCP)
+
+## 💬 Ask me about
+- PyTorch & Transformers
+- LoRA & QLoRA
+- Vision-Language Models
+- Cultural Heritage AI
+- Fine-tuning models
+- Open Source contributions
+
+## ⚡ Fun fact
+💡 "I believe AI can preserve cultural heritage for future generations! 🏛️✨"
 
 
 # 💻 Tech Stack:
