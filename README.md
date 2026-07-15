@@ -1,5 +1,4 @@
-markdown
-<!-- ============ HEADER ============ -->
+!-- ============ HEADER ============ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6B6B&height=120&section=header&text=👋%20Rajdeep&fontSize=40&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 </div>
@@ -74,3 +73,6 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 🏆 Achievements & Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rajdeep547&theme=radical&row=2&column=4&no-frame=true&bg_color=0d1117&title_color=6C63FF&text_color=FFFFFF&icon_color=6C63FF" /> </div>
 <!-- ============ QUOTE ============ -->
+💬 Random Dev Quote
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </div>
+<!-- ============ FOOTER ============ --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:6C63FF&height=100&section=footer" width="100%"/> </div><div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🌟;Let's+build+something+amazing!;Open+source+for+a+better+world+🌍" alt="Footer Typing" /> </div><div align="center"> <br /> <img src="https://img.shields.io/badge/Built_with_❤️-Open_Source-FF6B6B?style=for-the-badge&labelColor=0d1117" /> <img src="https://img.shields.io/badge/🚀-Always_Learning-6C63FF?style=for-the-badge&labelColor=0d1117" /> <img src="https://img.shields.io/badge/AI_for_Good-🌟-FFD700?style=for-the-badge&labelColor=0d1117" /> <br /> <br /> <b>Rajdeep</b> · AI/ML Engineer · Building the Future with AI 🚀 </div> ```
